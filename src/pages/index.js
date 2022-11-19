@@ -1,0 +1,6 @@
+export * from './about/about'
+export * from './contacts/contacts'
+export * from './games/games'
+export * from './home/home'
+export * from './movies/movies'
+export * from './notFound/notFound'
